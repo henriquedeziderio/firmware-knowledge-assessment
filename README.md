@@ -142,7 +142,7 @@ PROTECTED → 10 seconds elapsed, no press → OFF
 
 ### File
 
-- `question2_button_state_machine.ino`
+- [Question 2 Source Code](question2_button_state_machine/question2_button_state_machine.ino)
 
 ---
 
@@ -294,7 +294,7 @@ This architecture is directly informed by prior professional work: during a P&D 
 
 ### File
 
-- `question4_uart_parser.ino`
+- [Question 4 Source Code](question4_uart_parser/question4_uart_parser.ino)
 
 ---
 
